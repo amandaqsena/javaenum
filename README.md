@@ -1,0 +1,1 @@
+# Repositório com o básico de enum
