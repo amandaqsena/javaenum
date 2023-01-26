@@ -1,3 +1,7 @@
+
+/**
+ * @author amandasena97@gmail.com
+ */
 public enum Prioridade {
     MIN(1),NORMAL(5),MAX(10);
 
